@@ -4,3 +4,4 @@ gem "barby", "~> 0.5.0"
 gem "rqrcode"
 gem "rmagick"
 gem "semacode-ruby19"
+gem 'dalli'
