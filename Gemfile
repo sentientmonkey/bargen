@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem "sinatra", :require => "sinatra/base"
+gem "sinatra-contrib"
 gem "barby", "~> 0.5.0"
 gem "rqrcode"
 gem "rmagick"
